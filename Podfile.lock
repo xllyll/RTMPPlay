@@ -1,0 +1,20 @@
+PODS:
+  - ijkplayer (1.1.2)
+  - LFLiveKit (2.6)
+
+DEPENDENCIES:
+  - ijkplayer
+  - LFLiveKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ijkplayer
+    - LFLiveKit
+
+SPEC CHECKSUMS:
+  ijkplayer: da342ca5262c25ed7166c5b73a94c1548496000e
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+
+PODFILE CHECKSUM: a0824183f88acd1429c1340f7e344d82ff81e1ac
+
+COCOAPODS: 1.5.2
